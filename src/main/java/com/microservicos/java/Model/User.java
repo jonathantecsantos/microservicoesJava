@@ -1,6 +1,6 @@
-package com.microservicos.java.Models;
+package com.microservicos.java.Model;
 
-import com.microservicos.java.Dtos.UserDTO;
+import com.microservicos.java.DTO.UserDTO;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
